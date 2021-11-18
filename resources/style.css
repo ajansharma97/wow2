@@ -1,3 +1,17 @@
 body {
     background-color: black;
+    font-family: Verdana;
+    color: white;
+    text-align: center;
+}
+
+.heading-color {
+    color: white;
+    font-size: 50px;
+    font-weight: normal;
+}
+
+.link-color {
+    color: aquamarine;
+    font-size: 16px;
 }
